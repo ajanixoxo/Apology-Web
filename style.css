@@ -1,3 +1,17 @@
+body{
+    background: url(Rectangle\ 1490.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+main{
+    background: url(Rectangle\ 1491.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+  
+
+}
 button{
     background: linear-gradient(to right, #0091B5, #B31A00);
     border: none;
